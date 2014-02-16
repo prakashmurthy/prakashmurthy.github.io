@@ -18,7 +18,7 @@ Googling led to [this StackOverflow answer](http://stackoverflow.com/a/8456586/4
 
 The solution for this is to start a webserver locally, and access the file through the **http//** urls. 
 
-This reminded me of the following related tweet I had seen recently:
+This reminded me of the [following related tweet](https://twitter.com/sunilkumar_g56/status/430705355387973633) I had seen recently:
 ![Simple webserver with ruby command line]({{ site.url }}/images/ruby_web_server.png)
 
 Tried it out, and VOILA! the error message is gone, and the web page behaves as expected. 
