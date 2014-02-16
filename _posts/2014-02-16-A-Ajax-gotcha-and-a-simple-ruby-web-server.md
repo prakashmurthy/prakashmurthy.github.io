@@ -2,7 +2,7 @@
 layout: post
 title:  "A Ajax gotcha & simple webserver with ruby"
 date:   2014-02-16 21:18:41
-categories: ajax, jquery, ruby, webserver
+categories: 
 ---
 
 I have been having a very smooth sailing through [Learning jQuery book](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer-ebook/dp/B00DMYO2KA) till being stumped by an Ajax related issue at the beginning of *Chapter 6. Sending Data with Ajax*. 
